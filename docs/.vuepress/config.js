@@ -15,18 +15,17 @@ module.exports = {
       activeHeaderLinks: true,  // 默认值：true
       sidebarDepth: 2, // e'b将同时提取markdown中h2 和 h3 标题，显示在侧边栏上。
       lastUpdated: 'Last Updated', // 文档更新时间：每个文件git最后提交的时间
-      repo: 'itianke/itianke.github.io', // 你的 Git 项目地址，添加后会在导航栏的最后追加
+      repo: 'https://github.com/itianke/itianke.github.io/tree/itianke.github.io', // 你的 Git 项目地址，添加后会在导航栏的最后追加
       editLinks: true,  // 启用编辑
       editLinkText: '在 GitHub 上编辑此页', // 编辑按钮的 Text
       docsDir: 'docs',  // 编辑文档的所在目录
-      docsBranch: 'develop',  // 编辑文档的所在分支
+      docsBranch: 'itianke.github.io',  // 编辑文档的所在分支
       nav: [
-          { text: 'Home', link: '/' },
-          { text: 'Resource', link: '/resource/nav' }
+          { text: '首页', link: '/' },
+          { text: '资源', link: '/resource/article' }
       ],
       sidebar: {
         '/resource/': [
-            'nav', 
             'article'
         ]
       }

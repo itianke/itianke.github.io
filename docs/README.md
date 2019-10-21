@@ -1,5 +1,5 @@
 ## 介绍
-本博客由 vuepress 构建，部署在 [itianke.github.io](https://github.com/itianke/itianke.github.io/tree/develop) ，欢迎访问。
+本博客由 vuepress 构建，部署在 [itianke.github.io](https://github.com/itianke/itianke.github.io/tree/itianke.github.io) ，欢迎访问。
 
 ## 通过以下链接找到我
 - 个人网站：http://www.itianke.cn

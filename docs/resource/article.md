@@ -1,4 +1,5 @@
-# 资源整合
+# 前端资源汇总 
+- [web资源导航](http://www.alloyteam.com/nav/)
 
 ## 开发类
 #### 文章
@@ -11,6 +12,9 @@
 - [vue.js 官方文档](https://cn.vuejs.org/v2/guide/)
 - [阮一峰-JavaScript 全栈工程师培训教程](http://www.ruanyifeng.com/blog/2016/11/javascript.html)
 - [markdown 语法教程](https://www.w3cschool.cn/markdownyfsm/)
+
+#### 项目汇总
+- [vue-element-admin](https://panjiachen.gitee.io/vue-element-admin)
 
 #### 社区
 - [掘金](https://juejin.im)
